@@ -80,4 +80,4 @@ async def on_message(message):
         print(f"An error occurred: {e}")
 
 # Run the bot with your token
-client.run('MTIzMTE2MDIwMDYwMjU4NzE2Ng.GThZaH.DIhWw78vpGQZpfW4sHK4z2I2Jn2vt4SF8rfbZ8')
+client.run('')
